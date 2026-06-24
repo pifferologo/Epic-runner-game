@@ -75,13 +75,6 @@ Host the entire repository contents on any static file host (GitHub Pages, Netli
 - **Product:** Epic_runner  
 - **Version:** 1.0.0
 
-## Contact
-
-Questions, feedback, or collaboration — reach out anytime.
-
-- **Author:** pifferologo  
-- **Email:** gio-gio-66@hotmail.it
-
 ## License
 
 All rights reserved unless otherwise specified by the project owner.
